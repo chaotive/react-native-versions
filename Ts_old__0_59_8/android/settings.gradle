@@ -1,0 +1,3 @@
+rootProject.name = 'Ts_old__0_59_8'
+
+include ':app'
